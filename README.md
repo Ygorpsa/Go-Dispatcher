@@ -1,2 +1,2 @@
-# Go-Dispatcher
-Para eu conseguir pegar o Go-Dispatcher na maquina virtual
+# go-dispacher
+Solução para automação no encaminhamento de tickets
